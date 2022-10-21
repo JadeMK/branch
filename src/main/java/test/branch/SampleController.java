@@ -8,6 +8,6 @@ public class SampleController {
 
     @GetMapping("/")
     public String helloWorld() {
-        return "before merging";
+        return "To-do Application !";
     }
 }
